@@ -1,0 +1,15 @@
+Four in a row instructions:
+
+This game is played by two players,
+The objective of the game is to connect four of one's own discs of the same 
+color next to each other vertically, horizontally, or diagonally before your opponent.
+Connect Four is a strongly solved game.
+The first player can always win by playing the right moves.
+
+At this app, you first of all insert your names and the size of board
+that you want.
+then, every turn the current player have to choose a col and insert his disk.
+you can start an new tournir/game and set again your properties using the "properties" 
+option in the menu bar.
+
+Enjoy!
